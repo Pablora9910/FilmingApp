@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">FilmingApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_serie">Serie</string>
+    <string name="menu_pelicula">Peliculas</string>
+
+    <string name="Titulo">Titulo:</string>
+    <string name="Director">Director/es:</string>
+    <string name="Reparto">Reparto:</string>
+    <string name="Clasificacion">Clasificación:</string>
+    <string name="Sinopsis">Sinopsis:</string>
+    <string name="Temporadas">Temporada/s:</string>
+    <!-- Peliculas -->
+
+    <string name="tituloBroly">Dragon Ball Super: Broly</string>
+    <string name="directorBroly">Tatsuya Nagamine</string>
+    <string name="repartoBroly">GOKU,VEGETA,BROLY</string>
+    <string name="sinopsisBroly">La paz ha regresado una vez más a la Tierra tras el Torneo de Poder. Al descubrir que en los diferentes universos hay seres increíblemente poderosos que aún no ha visto, Goku tiene intención de seguir entrenando para hacerse aún más fuerte. Entonces, un día, un saiyan llamado Broly al que nunca antes han visto se presenta ante Goku y Vegeta.</string>
+
+    <string name="tituloBoruto">Boruto</string>
+    <string name="directorBoruto">Hiroyuki Yamashita</string>
+    <string name="repartoBotuto">Naruto,Sasuke,Boruto,Gaara</string>
+    <string name="sinopsisBoruto">Varios años después del final de la Guerra Shinobi, Boruto, el brillante e impetuoso hijo de Naruto, se prepara para hacer los exámenes de Chunin junto con Sarada Uchiha y el misterioso Mitsuki.</string>
+
+    <string name="tituloDoraemon">Doraemon y el imperio maya</string>
+    <string name="directorDoraemon">Tsutomu Shibayama</string>
+    <string name="repartoDoraemon">Doraemon,Nobita,Sisuka</string>
+    <string name="sinopsisDoraemon">A través del "agujero del tiempo", Nobita y sus amigos llegan a Mayana, un país del Imperio Maya. Allí se encuentran con un príncipe Mayana y, sorprendentemente, Nobita y el príncipe se parecen como dos gotas de agua. Los dos jóvenes deciden intercambiar sus ropas y vivir cada uno en el mundo del otro.</string>
+
+    <string name="tituloTren">Kimetsu no Yaiba: Mugen Ressha-hen</string>
+    <string name="directorTren">Haruo Sotozaki</string>
+    <string name="repartoTren">Akaza, anjiro,Rengoku,Nezuko</string>
+    <string name="sinopsisTren">Tanjiro Kamado y sus amigos del Demon Slayer Corps acompañan a Kyōjurō Rengoku, el Flame Hashira, para investigar una misteriosa serie de desapariciones que ocurren dentro de un tren aparentemente infinitamente largo.</string>
+
+    <string name="tituloEldespertar">My Hero Academia: el despertar de los héroes</string>
+    <string name="directorEldespertar">Kōhei Horikoshi, Kenji Nagasaki</string>
+    <string name="repartoEldespertar">Deku,Uraraka,Nine,Kirishima</string>
+    <string name="sinopsisEldespertar">Un grupo de jóvenes aspiran a convertirse en superhéroes profesionales, luchando en un mundo lleno de personas con habilidades. Deku y sus compañeros de clase de Hero Academy se enfrentan a Nine, el villano más fuerte hasta el momento.</string>
+
+    <string name="tituloYourname">Your Name</string>
+    <string name="directorYourname"> Makoto Shinkai</string>
+    <string name="repartoYourname">Taki ,Mitsuha</string>
+    <string name="sinopsisYoruname">El joven Taki vive en Tokio: la joven Mitsuha, en un pequeño pueblo en las montañas. Durante el sueño, los cuerpos de ambos se intercambian. Recluidos en un cuerpo que les resulta extraño, comienzan a comunicarse.</string>
+
+    <string name="tituloMononoke">Your Name</string>
+    <string name="directorMononoke">Hayao Miyazaki</string>
+    <string name="repartoMononoke">Taki ,Mitsuha</string>
+    <string name="sinopsisMononoke">Un joven príncipe, herido mortalmente por un demonio, viaja a un recóndito poblado para llevar a cabo una difícil misión: reconciliar a las dos mujeres responsables de la inminente destrucción del lugar.</string>
+
+    <!-- Series -->
+
+    <string name="tituloBerserk">Berserk</string>
+    <string name="directorBerserk">Kentaro Miura</string>
+    <string name="repartoBerserk">Guts,Griffith</string>
+    <string name="sinopsisBerserk">Berserk es un manga creado por Kentaro Miura y posteriormente adaptado en anime, con un estilo épico fantástico y de fantasía oscura. Miura publicó un prototipo de Berserk en 1988</string>
+
+    <string name="tituloDragonBall">Dragon Ball</string>
+    <string name="directorDragonBall">Akira Toriyama</string>
+    <string name="repartoDragonBall">Goku,Vegeta,Celula</string>
+    <string name="sinopsisDragonBall">Dragon Ball es un manga escrito e ilustrado por Akira Toriyama. Fue publicado originalmente en la revista Shōnen Jump, de la editorial japonesa Shūeisha, entre 1984 y 1995.</string>
+
+    <string name="tituloKimetsu">Kimetsu no Yaiba</string>
+    <string name="directorKimetsu">Koyoharu Gotōge</string>
+    <string name="repartoKimetsu">Tanjiro, Inosuke,Zenitsu</string>
+    <string name="sinopsisKimetsu">Kimetsu no Yaiba, también conocida bajo su nombre en inglés Demon Slayer y como Guardianes de la Noche en España, es una serie de manga escrita e ilustrada por Koyoharu Gotōge, cuya publicación comenzó el 15 de febrero de 2016 en la revista semanal Shūkan Shōnen Jump de la editorial</string>
+
+
+    <string name="tituloMob">Mob Psycho 100</string>
+    <string name="directorMob">One</string>
+    <string name="repartoMob">Mob,Arataka Reige,Hoyuelo </string>
+    <string name="sinopsisMob">Shigeo Kageyama es un estudiante de preparatoria promedio conocido como "Mob"(que literalmente significa «personaje de fondo»), por carecer de un sentido de presencia. A pesar de parecer una persona discreta, Mob es en realidad un poderoso psíquico.</string>
+
+    <string name="tituloMyHero">My Hero Academia</string>
+    <string name="directorMyHero">Kōhei Horikoshi</string>
+    <string name="repartoMyHero">All for One , Deku ,AllMight </string>
+    <string name="sinopsisMyHero">La historia tiene lugar en un mundo donde el 80% de la población ha desarrollado «dones», surgiendo así héroes y villanos. Entre el 20% de personas sin dones, se encuentra Izuku Midoriya, cuyo mayor deseo es poder estudiar en la U.A. y convertirse en un héroe como su ídolo All Might.</string>
+
+    <string name="tituloNaruto">Naruto: Shippūden</string>
+    <string name="directorNaruto">Masashi Kishimoto</string>
+    <string name="repartoNaruto">Naruto, Marada, Sasuke </string>
+    <string name="sinopsisNaruto">Naruto, un ninja adolescente, sueña con convertirse en el hokage de su pueblo, pues quien detenta el título de hokage está considerado el shinobi más poderoso del lugar.</string>
+
+    <string name="tituloOnePiece">One Piece</string>
+    <string name="directorOnePiece">Eiichirō Oda</string>
+    <string name="repartoOnePiece">Lufi,Zoro,Nami</string>
+    <string name="sinopsisOnePiece">One Piece es la historia de un chico llamado Monkey D. Luffy, quién se inspiró en Shanks, un pirata que le salvó la vida, para convertirse en el Rey de los Piratas.</string>
+
+    <string name="tituloOnePunch">One Punch Man</string>
+    <string name="directorOnePunch">One</string>
+    <string name="repartoOnePunch">Saitama, King, Genos</string>
+    <string name="sinopsisOnePunch">La historia tiene lugar en una metrópolis ficticia conocida como Ciudad Z, en Japón. El mundo se ve invadido por extraños monstruos que aparecen misteriosamente y quienes causan numerosos desastres a la población. Saitama es un poderoso superhéroe calvo que derrota fácilmente a los monstruos u otros villanos con un único golpe de su puño.</string>
+
+
+    <string name="tituloSingeki">Shingeki no Kyojin</string>
+    <string name="directorSingeki">Hajime Isayama</string>
+    <string name="repartoSingeki">Heren Jaeger, Mikasa Akerman</string>
+    <string name="sinopsisSingeki">La trama gira en torno a Eren Jaeger quien después de perder a su madre a manos de los titanes, decide unirse al «Ejército de las murallas» junto a su hermana adoptiva y su mejor amigo con el objetivo de vengar la muerte de su madre y destruir la los titanes.</string>
+</resources>
