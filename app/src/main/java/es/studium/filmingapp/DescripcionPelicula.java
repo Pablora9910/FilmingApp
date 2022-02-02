@@ -8,12 +8,14 @@ import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
+import android.widget.RatingBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
 public class DescripcionPelicula extends AppCompatActivity implements View.OnClickListener {
     ImageView imgCaratula ;
-    TextView textTitulo,textDirector,textReparto,textSinopsis,textPuntuacion;
+    TextView textTitulo,textDirector,textReparto,textSinopsis;
+    RatingBar ratingBar;
     PeliculaPOJO pelicula;
 
 
@@ -28,14 +30,14 @@ public class DescripcionPelicula extends AppCompatActivity implements View.OnCli
         textDirector = findViewById(R.id.textViewDirector);
         textReparto = findViewById(R.id.textViewRepartp);
         textSinopsis = findViewById(R.id.textViewSinopsis);
-        textPuntuacion = findViewById(R.id.textViewPuntuacion);
+        ratingBar = findViewById(R.id.ratingBarPelicula);
         imgCaratula.setOnClickListener(this);
 
         if(extras != null)
         {
            pelicula = (PeliculaPOJO) extras.getSerializable("pelicula");
            Drawable carat = getDrawable(pelicula.getCaratula());
-           textPuntuacion.setText(getString(R.string.Clasificacion)+""+pelicula.getClasificacion());
+           ratingBar.setRating(pelicula.getClasificacion());
            imgCaratula.setImageDrawable(carat);
            textTitulo.setText(getString(R.string.Titulo)+" "+pelicula.getTitulo());
            textDirector.setText(getString(R.string.Director)+" "+pelicula.getDirector());
