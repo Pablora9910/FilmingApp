@@ -8,10 +8,11 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="281dp"
-        android:layout_height="24dp"
+        android:layout_width="404dp"
+        android:layout_height="33dp"
         android:text="@string/Welcome"
         android:textAlignment="center"
+        android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -23,6 +24,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:src="@drawable/gifgoku"
-        tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="253dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/textView"
+        app:layout_constraintStart_toStartOf="@+id/textView"
+        app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
