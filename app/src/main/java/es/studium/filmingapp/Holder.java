@@ -31,13 +31,8 @@ public class Holder extends RecyclerView.ViewHolder implements  View.OnClickList
         titulo.setText(serie.getTitulo());
         imgCaratula.setImageResource(serie.getCaratula());
     }
-
-
     @Override
     public void onClick(View v) {
         listener.onClick(v,getAdapterPosition(), imgCaratula,titulo);
-
     }
-
-
 }
